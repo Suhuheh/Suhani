@@ -1,4 +1,4 @@
-console.log("Made with love by - Urvish Patel ❣️");
+console.log("Made with love by - suhani🩷");
 
 
 // Function to display the user's name on the second page
